@@ -1,0 +1,39 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment variables / secrets
+.env
+*.env
+app/.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE/editor settings
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build and packaging
+build/
+dist/
+*.egg-info/
+
+# Logs
+*.log
+
+# Streamlit local state
+.streamlit/
+
+# Local vector DB / generated data
+vectorstore/
