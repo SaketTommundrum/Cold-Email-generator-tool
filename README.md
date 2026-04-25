@@ -44,3 +44,5 @@ git rm -r --cached vectorstore
 ```
 
 - If a real API key was ever committed, rotate/revoke it in your provider dashboard.
+- <img width="1836" height="769" alt="Screenshot 2026-03-04 082259" src="https://github.com/user-attachments/assets/e5e4904c-b802-4074-a5e5-78b1f074fbcb" />
+
